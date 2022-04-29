@@ -2,10 +2,10 @@
 
 Building the top-sky project with flask.
     
-    []: # Path: README.md
+[]: # Path: README.md
 
-    []: # Language: 
-    
-    - markdown
-    - python
-    - flask
+[]: # Language: 
+
+- markdown
+- python
+- flask
