@@ -10,3 +10,4 @@ def hello_sky():
     user = request.args.get('user','foscraft')
     return render_template('index.html',user=user)
 
+    
